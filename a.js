@@ -1,4 +1,4 @@
 function(){
 	consolog.log(100)
 }
-consolog(200)
+consolog(300)
